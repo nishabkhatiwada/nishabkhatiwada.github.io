@@ -1,0 +1,46 @@
+h1{
+	background: black;
+	border: solid red 3px;
+	color: white;
+	text-align: center;
+	font-family: cursive;
+
+}
+body{
+	margin:200px;
+}
+
+nav a{
+	color: white;
+	padding: 10px;
+	background: gray;
+}
+header{
+	background:#333;
+	border-style: ridge 4px;
+}
+section{
+	text-align:center;
+
+}
+body{
+	    background: url(img/download.jpg);
+		background-size: cover;
+		background-attachment: fixed;
+		left: 0;
+		right: 0;
+		z-index: -1;
+		padding-top: 30px;
+		overflow:10px;
+}
+div{
+	text-align: center;
+	padding-right: 28px;
+}
+header{
+	border: red solid 3px;
+	text-align: center;
+}
+em{
+	text-align: center;
+}
